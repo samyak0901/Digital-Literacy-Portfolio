@@ -1,1 +1,7 @@
+Case: Phishing Attack
 
+A student received an email claiming to be from a bank asking for login details. 
+The link redirected to a fake website, leading to account hacking.
+
+Lesson:
+Always verify links and never share sensitive information.
