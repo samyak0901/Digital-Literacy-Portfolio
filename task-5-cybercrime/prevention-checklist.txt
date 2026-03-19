@@ -1,1 +1,5 @@
-
+- Use strong passwords
+- Enable 2FA
+- Avoid suspicious links
+- Verify email sources
+- Keep software updated
